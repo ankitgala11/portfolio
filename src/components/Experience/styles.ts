@@ -12,7 +12,7 @@ export const Container = styled.section`
 		display: grid;
 		grid-template-rows: auto;
 		gap: 2rem;
-		padding: 1rem 20%;
+		padding: 1rem 1rem;
 		overflow: hidden;
 		align-content: center;
 

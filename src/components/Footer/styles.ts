@@ -16,7 +16,7 @@ export const Container = styled.footer`
 		letter-spacing: 0.2rem;
 		display: flex;
 		align-items: center;
-		gap: 0.5rem;
+		// gap: 0.5rem;
 		img {
 			width: 2.6rem;
 			animation: spinning 5s infinite linear;
@@ -25,8 +25,9 @@ export const Container = styled.footer`
 	.social-media {
 		display: flex;
 		align-items: center;
-		justify-content: space-between;
-		gap: 1rem;
+		justify-content: center;
+		// justify-content: space-between;
+		gap: 1.5rem;
 
 		img,
 		span {
@@ -49,11 +50,13 @@ export const Container = styled.footer`
 		flex-direction: column;
 		gap: 2rem;
 		text-align: center;
+		justify-content: center;
 	}
 	@media (max-width: 600px) {
-		padding: 4rem 1rem;
+		padding: 4rem auto;
 		p {
-			font-size: 1.2rem;
+			font-size: 1.5rem;
+			justify-content: center;
 		}
 	}
 `;
