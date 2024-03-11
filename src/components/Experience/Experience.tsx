@@ -7,8 +7,8 @@ const experiences = [
 		position: "Advance Associate Software Engineer",
 		duration: "Dec 2022 - Dec 2023",
 		description:
-			"• Collaborated with the client Bank of Baroda in ensuring seamless loading and refreshing of data, contributing to the efficient business operations of the bank. • Designed various interactive dashboards to display the reports guaranteeing simplicity. • Increased efficiency by 20% by optimizing complex queries resulting in reduction of both space and processing time.",
-		tech: "Qlik Sense, Impala Cloudera, HIVE, SQL",
+			"Collaborated with Bank of Baroda to develop scripts for fetching the relevant data required by the bank to carry out various business activities. • Designed and built interactive dashboards for analyzing and displaying reports. • Increased efficiency by 20-30% by optimizing complex queries and eliminating nearly 50-100 lines of redundant code. • Resolved various data issues while concurrently managing servers to ensure seamless operation of bank’s activities.",
+		tech: "Python, Javascript, SQL, Cloudera",
 	},
 	{
 		company: "Kennovation Software Service",

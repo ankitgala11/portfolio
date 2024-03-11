@@ -50,7 +50,7 @@ export function Header() {
 						Contact
 					</NavHashLink>
 					<a href={CV} download="Ankit_Resume" className="button">
-						CV
+						RESUME
 					</a>
 				</nav>
 
