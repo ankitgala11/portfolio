@@ -46,7 +46,6 @@ export function Form() {
       </ContainerSucces>
     )
   }
-
   return (
     <Container>
       <h2>Get in touch using the form</h2>

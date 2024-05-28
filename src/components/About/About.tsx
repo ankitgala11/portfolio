@@ -39,7 +39,7 @@ export function About() {
 					}}
 				>
 					<p>
-						With 1 year of professional experience, I've gained
+						With 1.5+ year of professional experience, I've gained
 						valuable insights that have honed my skills in precision
 						and efficiency, ensuring the delivery of high-quality
 						solutions. Beyond my formal work, active contributions
