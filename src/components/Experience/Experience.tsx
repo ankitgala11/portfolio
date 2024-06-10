@@ -20,20 +20,20 @@ const experiences = [
 	},
 	{
 		company: "Kennovation Software Service",
-		position: "Backend Developer Intern",
+		position: "Developer Intern",
 		duration: "Dec 2021 - Feb 2022",
 		description:
-			"• Worked on migration of an E-commerce site (www.temeculaoliveoil.com) from Magento to Laravel. • Reduced error occurrences by 30% by specific improvements.",
+			"• Contributed to the development of an E-commerce platform for Temecula Olive Oil Company.• Developed and maintained APIs and collaborated with team members using version control such as Git, leading to streamlined modification management and a 15% increase in development efficiency.",
 
-		tech: "Laravel, Ajax, API, Bootstrap, JavaScript",
+		tech: "Java, Spring, Ajax, Bootstrap.",
 	},
 	{
 		company: "Dotminds",
-		position: "Frontend Developer Intern",
+		position: "Developer Intern",
 		duration: "June 2020 - July 2022",
 		description:
-			" Designed and implemented the user interface for a car rental website, showcasing all the available cars and pricing.",
-		tech: "HTML, CSS, JavaScript, JQuery, Bootstrap, AngularJS",
+			"Designed and implemented the user interface for a car rental website, showcasing all the available cars and pricing.",
+		tech: "HTML, CSS, AngularJS, JavaScript, JQuery, Bootstrap",
 	},
 	{
 		company: "Eyuva",

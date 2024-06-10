@@ -1,93 +1,69 @@
-import htmlIcon from "./assets/html-icon.svg";
-import cssIcon from "./assets/css-icon.svg";
-import jsIcon from "./assets/js-icon.svg";
-import nodeIcon from "./assets/node-icon.svg";
-import reactIcon from "./assets/react-icon.svg";
-import python from "./assets/python-icon.svg";
-import java from "./assets/java-icon.svg";
-import c from "./assets/c-icon.svg";
-import boostrapIcon from "./assets/bootstrap-icon.svg";
-import laravel from "./assets/laravel-icon.svg";
-import postman from "./assets/postman-icon.svg";
-import mongodb from "./assets/mongodb-icon.svg";
-import git from "./assets/git-icon.svg";
-import php from "./assets/php-icon.svg";
-import mysql from "./assets/mysql-icon.svg";
-import aws from "./assets/aws-icon.svg";
-import firebase from "./assets/firebase-icon.svg";
-
 export const skills = [
 	{
 		skills: [
 			{
 				name: "Python",
-				image: python,
-			},
-			{
-				name: "C++",
-				image: c,
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
 			},
 			{
 				name: "Java",
-				image: java,
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+			},
+			{
+				name: "JavaScript",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+			},
+			{
+				name: "SQL",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+			},
+			{
+				name: "Node.js",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+			},
+			{
+				name: "Spring Boot",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
 			},
 			{
 				name: "React",
-				image: reactIcon,
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
 			},
 			{
-				name: "Node",
-				image: nodeIcon,
+				name: "MySQL",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
 			},
 			{
-				name: "Html",
-				image: htmlIcon,
+				name: "MongoDB",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
 			},
 			{
-				name: "CSS",
-				image: cssIcon,
+				name: "Tailwind CSS",
+				image: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
 			},
 			{
-				name: "Mongodb",
-				image: mongodb,
-			},
-
-			{
-				name: "Javascript",
-				image: jsIcon,
-			},
-			{
-				name: "postman",
-				image: postman,
-			},
-			{
-				name: "laravel",
-				image: laravel,
-			},
-
-			{
-				name: "PHP",
-				image: php,
-			},
-			{
-				name: "git",
-				image: git,
-			},
-			{
-				name: "Bootstrap",
-				image: boostrapIcon,
-			},
-			{
-				name: "mysql",
-				image: mysql,
+				name: "HTML",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
 			},
 			{
 				name: "AWS",
-				image: aws,
+				image: "https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg",
 			},
 			{
 				name: "Firebase",
-				image: firebase,
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+			},
+			{
+				name: "Git",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+			},
+			{
+				name: "Postman",
+				image: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+			},
+			{
+				name: "GitHub",
+				image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
 			},
 		],
 	},
