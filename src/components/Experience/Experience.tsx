@@ -62,7 +62,7 @@ export function Experience() {
 									</h3>
 									<p>{experience.duration}</p>
 									<p>{experience.description}</p>
-									<p>{experience.tech}</p>
+									{/* <p>{experience.tech}</p> */}
 									<hr />
 								</div>
 							</div>
