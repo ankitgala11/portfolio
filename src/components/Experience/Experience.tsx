@@ -7,8 +7,8 @@ const experiences = [
 		position: "Software Developer Engineer",
 		duration: "April 2024 - Present",
 		description:
-			"•Developed production-ready code for the revamp of the ed-tech platform with an active user base of over 12,000,improving code efficiency and readability, resulting in faster loading thus enhancing user experience.• Designed and implemented a quiz-based 1v1 competitive game feature, leveraging websockets for real-time updates and scores, therby increasing student engagement 10x times.• Implemented RESTful APIs following MVC architecture patterns, enhancing backend maintainability and efficiency, resulting in a 20-30% reduction in response times.• Crafted complex aggregate functions for MongoDB to optimize data retrieval processes, achieving in a 2x improvement in query performance.",
-		tech: "NodeJS, Express, Socket.io, React, Redux-toolkit, Tailwind CSS, MongoDB, AWS, Docker",
+			"•Developed production-ready code for the revamp of the ed-tech platform with an active user base of over 12,000,improving code efficiency and readability, resulting in faster loading thus enhancing user experience.• Designed and implemented a quiz-based 1v1 competitive game feature, leveraging websockets for real-time updates and scores, therby increasing student engagement 10x times.• Implemented RESTful APIs following MVC architecture patterns, enhancing backend maintainability and efficiency, resulting in a 20-30% reduction in response times.• Crafted complex aggregate functions to optimize data retrieval processes, achieving in a 2x improvement in query performance.",
+		// tech: "NodeJS, Express, Socket.io, React, Redux-toolkit, Tailwind CSS, MongoDB, AWS, Docker",
 	},
 	{
 		company: "Accenture",
@@ -16,7 +16,7 @@ const experiences = [
 		duration: "Dec 2022 - Feb 2024",
 		description:
 			"• Collaborated on developing RESTful APIs using Java Spring Boot, fostering teamwork and robust functionality.• Increased efficiency by 30-40% through optimization of complex queries and elimination of redundant code.• Identified and resolved bottlenecks, resulting in a 20% increase in platform speed and enhancing user experience.",
-		tech: "Java, Spring Boot, Spring MVC, JavaScript, SQL",
+		// tech: "Java, Spring Boot, Spring MVC, JavaScript, SQL",
 	},
 	{
 		company: "Kennovation Software Service",
@@ -25,7 +25,7 @@ const experiences = [
 		description:
 			"• Contributed to the development of an E-commerce platform for Temecula Olive Oil Company.• Developed and maintained APIs and collaborated with team members using version control such as Git, leading to streamlined modification management and a 15% increase in development efficiency.",
 
-		tech: "Java, Spring, Ajax, Bootstrap.",
+		// tech: "Java, Spring, Ajax, Bootstrap.",
 	},
 	{
 		company: "Dotminds",
@@ -33,7 +33,7 @@ const experiences = [
 		duration: "June 2020 - July 2022",
 		description:
 			"Designed and implemented the user interface for a car rental website, showcasing all the available cars and pricing.",
-		tech: "HTML, CSS, AngularJS, JavaScript, JQuery, Bootstrap",
+		// tech: "HTML, CSS, AngularJS, JavaScript, JQuery, Bootstrap",
 	},
 	{
 		company: "Eyuva",
@@ -41,7 +41,7 @@ const experiences = [
 		duration: "Dec 2019 - Dec 2019",
 		description:
 			"Developed an online notice board for teachers to post important notices enabling full CRUD functionality .",
-		tech: "HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, MySQL",
+		// tech: "HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, MySQL",
 	},
 	// Add more experiences as needed
 ];
